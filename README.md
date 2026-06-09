@@ -18,7 +18,7 @@ A Python-based simulation of the classic Craps dice game.
    ```bash
    python craps.py
 
-   ## Learning Objectives
+## Learning Objectives
 
 - Understanding game logic
 - Using Python functions
